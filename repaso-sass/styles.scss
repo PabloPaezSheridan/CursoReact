@@ -1,0 +1,17 @@
+$color-principal: rgb(48, 132, 69);
+
+body{
+    background: $color-principal;
+    }
+
+.caja{
+    h2{
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    p{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:gray;
+    }
+}

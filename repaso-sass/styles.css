@@ -1,0 +1,14 @@
+body {
+  background: rgb(48, 132, 69);
+}
+
+.caja h2 {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.caja p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: gray;
+}
+
+/*# sourceMappingURL=styles.css.map */
