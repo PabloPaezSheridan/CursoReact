@@ -14,7 +14,7 @@ export const MiPrimerEstado = () => {
   return (
     <div>
       <h3>Componente: MiPrimerEstado</h3>
-      <stong className="label">{nombre}</stong>
+      <strong className="label">{nombre}</strong>
       &nbsp;
       <button onClick={(e) => cambiarNombre(e, "Pablo Paez")}>
         Cambiar nombre por Pablo
