@@ -3,6 +3,7 @@ import "./App.css";
 import { ListarLibros } from "./ListarLibros";
 import { DatosUsuario } from "./DatosUsuarios";
 import { TerecerComponente } from "./TerecerComponente";
+import { EventosComponente } from "./EventosComponente";
 
 function App() {
   const ficha_medica = {
@@ -24,6 +25,8 @@ function App() {
           Learn React
         </a>
         <div className="componentes">
+          <hr />
+          <EventosComponente />
           <hr />
           <ListarLibros />
           <hr />
